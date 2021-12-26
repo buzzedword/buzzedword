@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Infra/DevOps/SRE/Magic. When not shouting at Alexa or Google, I play with RGB to make my battlestation light up. He/Him. #blacklivesmatter #stopasianhate #neurodiverse</h3>
 
+### Connect with Github Discussions:
+<p align="left"> <a href="https://github.com/buzzedword/buzzedword/discussions" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/334485/147422293-482882e3-e81b-4a84-be1e-83c6d3d6e4b9.png" alt="github" width="40" height="40"/> </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/buzzedword" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buzzedword" height="30" width="40" /></a>
